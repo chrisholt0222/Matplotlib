@@ -20,7 +20,7 @@ Rural cities have fewer rides per city (mostly under 10) compared to urban citie
 
 ![Gauage Chart](Images/drivers_bytype.png)
 
-## Pie chart by fare type
+## Pie chart by city type
 
 ![Bubble Chart](Images/fares_bytype.png)
 
